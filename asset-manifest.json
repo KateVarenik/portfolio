@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ac33c18f.chunk.css",
+    "main.js": "/portfolio/static/js/main.d604e7ab.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d604e7ab.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
+    "static/css/2.7a2fd630.chunk.css": "/portfolio/static/css/2.7a2fd630.chunk.css",
+    "static/js/2.6a1a4eee.chunk.js": "/portfolio/static/js/2.6a1a4eee.chunk.js",
+    "static/js/2.6a1a4eee.chunk.js.map": "/portfolio/static/js/2.6a1a4eee.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.7a2fd630.chunk.css.map": "/portfolio/static/css/2.7a2fd630.chunk.css.map",
+    "static/css/main.ac33c18f.chunk.css.map": "/portfolio/static/css/main.ac33c18f.chunk.css.map",
+    "static/js/2.6a1a4eee.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6a1a4eee.chunk.js.LICENSE.txt",
+    "static/media/404.2f273324.svg": "/portfolio/static/media/404.2f273324.svg",
+    "static/media/audiofree.51be180f.png": "/portfolio/static/media/audiofree.51be180f.png",
+    "static/media/barbershop.460577b3.png": "/portfolio/static/media/barbershop.460577b3.png",
+    "static/media/basket_catalog.324286d3.png": "/portfolio/static/media/basket_catalog.324286d3.png",
+    "static/media/contacts.css": "/portfolio/static/media/bird.c8b7203b.svg",
+    "static/media/christmas_gift.e7bbd985.png": "/portfolio/static/media/christmas_gift.e7bbd985.png",
+    "static/media/coffee.c5a32d27.png": "/portfolio/static/media/coffee.c5a32d27.png",
+    "static/media/dreammaker.6d18bbf2.png": "/portfolio/static/media/dreammaker.6d18bbf2.png",
+    "static/media/hungry.2130eafb.png": "/portfolio/static/media/hungry.2130eafb.png",
+    "static/media/kate.2ddb72a1.jpg": "/portfolio/static/media/kate.2ddb72a1.jpg",
+    "static/media/login_form.6826e74c.png": "/portfolio/static/media/login_form.6826e74c.png",
+    "static/media/odigo.b8cba38a.png": "/portfolio/static/media/odigo.b8cba38a.png",
+    "static/media/waxom.5115d2b2.png": "/portfolio/static/media/waxom.5115d2b2.png",
+    "static/media/webovio.71301c1a.png": "/portfolio/static/media/webovio.71301c1a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76232b81.js",
+    "static/css/2.7a2fd630.chunk.css",
+    "static/js/2.6a1a4eee.chunk.js",
+    "static/css/main.ac33c18f.chunk.css",
+    "static/js/main.d604e7ab.chunk.js"
+  ]
+}
