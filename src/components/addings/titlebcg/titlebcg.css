@@ -1,0 +1,22 @@
+.titlebcg {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 150px;
+  font-weight: 800;
+  color: rgba(116, 146, 139, 0.2);
+  z-index: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .titlebcg {
+    font-size: 100px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .titlebcg {
+    font-size: 75px;
+  }
+}

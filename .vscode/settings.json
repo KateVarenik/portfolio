@@ -1,0 +1,24 @@
+{
+  "files.defaultLanguage": "html",
+  "workbench.editor.tabSizing": "shrink",
+  "editor.fontSize": 13,
+  "editor.tabSize": 2,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.quickSuggestionsDelay": 10,
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.tabCompletion": "on",
+  "editor.suggest.localityBonus": true,
+  "editor.wordBasedSuggestions": true,
+  // "editor.parameterHints": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.formatOnSave": true,
+  "editor.rulers": [80, 80],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+}

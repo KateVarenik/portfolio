@@ -1,0 +1,126 @@
+.contacts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  position: relative;
+  background: url("../../img/bird.svg") bottom right/ 250px no-repeat;
+}
+
+.contacts__titlebcg {
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.contacts__list {
+  color: var(--contrast-color-darker);
+  font-size: 30px;
+  line-height: 36px;
+  margin-bottom: 50px;
+  margin-top: 100px;
+}
+
+.contacts__list li {
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  color: var(--contrast-color);
+}
+
+.contacts__list li:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.contacts__list a {
+  text-decoration: none;
+  color: var(--contrast-color);
+  transition: 0.7s;
+}
+
+.contacts__list a:hover {
+  color: var(--contrast-color-darker);
+}
+
+.contacts__tel {
+  position: relative;
+  transition: 0.5s;
+}
+
+.contacts__tel span {
+  opacity: 0;
+  position: absolute;
+  bottom: 0px;
+  right: -10px;
+  color: var(--contrast-color-darker);
+  font-size: 20px;
+}
+
+.contacts__tel:hover span {
+  opacity: 100%;
+  animation: animated 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) forwards;
+}
+
+@keyframes animated {
+  0% {
+    opacity: 0;
+    -webkit-transform: rotateX(-90deg);
+    transform: rotateX(-90deg);
+  }
+  70% {
+    -webkit-transform: rotateX(30deg);
+    transform: rotateX(30deg);
+    opacity: 1;
+  }
+
+  100% {
+    transform: rotateX(0);
+    -webkit-transform: rotateX(0);
+    opacity: 1;
+  }
+}
+
+.contacts__media {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.contacts__media a {
+  position: relative;
+  color: var(--contrast-color);
+  font-size: 26px;
+  text-decoration: none;
+  margin-right: 10px;
+  transition: 0.5s;
+  width: 40px;
+  height: 40px;
+  padding: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contacts__media a:hover {
+  color: var(--contrast-color-darker);
+  transform: scale(1.2);
+}
+
+@media screen and (max-width: 1075px) {
+  .contacts {
+    height: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .contacts__media a {
+    font-size: 40px;
+    margin-right: 20px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .contacts__list {
+    font-size: 26px;
+  }
+}

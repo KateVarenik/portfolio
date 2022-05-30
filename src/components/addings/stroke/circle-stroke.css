@@ -1,0 +1,21 @@
+.svg-circle__wrapper {
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.svg-circle {
+  stroke-dasharray: 20 375;
+  stroke-dashoffset: 100;
+  fill: transparent;
+  stroke: transparent;
+  opacity: 0.5;
+  transition: stroke-width 0.5s, stroke-dashoffset 0.5s, stroke-dasharray 0.5s;
+}
+
+.svg-circle__wrapper:hover .svg-circle {
+  stroke: currentColor;
+  stroke-dashoffset: 0;
+  stroke-dasharray: 160 20;
+}

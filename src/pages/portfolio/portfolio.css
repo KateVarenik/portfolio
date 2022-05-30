@@ -1,0 +1,40 @@
+.portfolio {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding-top: 200px;
+  padding-bottom: 50px;
+  box-sizing: border-box;
+}
+
+.portfolio__title {
+  margin-top: 28px;
+}
+
+.portfolio__items {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(335px, 1fr));
+  gap: 30px;
+  padding: 0 70px;
+}
+
+@media screen and (max-width: 1075px) {
+  .portfolio__items {
+    padding: 0 50px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .portfolio {
+    padding-top: 150px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .portfolio__items {
+    padding: 0 20px;
+  }
+}
