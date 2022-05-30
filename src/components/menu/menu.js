@@ -8,7 +8,6 @@ import CV from "../icons/cv";
 import Stroke from "../addings/stroke/stroke";
 import Delimetr from "../icons/delimetr";
 import Logo from "../icons/logo";
-import Bars from "../icons/bars";
 
 export const Menu = () => {
   useEffect(() => {
@@ -93,7 +92,7 @@ export const Menu = () => {
       </div>
 
       <div className="menu__toggle">
-        <Bars />
+        <span></span>
       </div>
     </div>
   );
