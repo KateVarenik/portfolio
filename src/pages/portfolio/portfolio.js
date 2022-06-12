@@ -29,7 +29,7 @@ export const Portfolio = () => {
       desc: [
         "Многостраничник",
         "React, HTML, CSS, Swiper js, Material ui",
-        "Мобильная версия",
+        "Адаптив - мобильная версия",
       ],
       link: "/audiofree",
       delay: "100",
@@ -37,21 +37,33 @@ export const Portfolio = () => {
     {
       title: "Waxom",
       img: Waxom,
-      desc: ["Лендинг", "HTML, CSS, Swiper js, MixItUp, jQuery", "Адаптив"],
+      desc: [
+        "Лендинг",
+        "HTML, CSS, Swiper js, MixItUp, jQuery",
+        "Отзывчивая вёрстка",
+      ],
       link: "/waxom",
       delay: "200",
     },
     {
       title: "Dreammaker",
       img: Dreammaker,
-      desc: ["Лендинг", "HTML, CSS, jQuery, Smooth-scroll", "Адаптив"],
+      desc: [
+        "Лендинг",
+        "HTML, CSS, jQuery, Smooth-scroll",
+        "Отзывчивая вёрстка",
+      ],
       link: "/dreammaker",
       delay: "300",
     },
     {
       title: "Christmas landing",
       img: Christmas,
-      desc: ["Лендинг", "HTML, CSS, Scroll reveal", "Адаптив, тёмная тема"],
+      desc: [
+        "Лендинг",
+        "HTML, CSS, Scroll reveal",
+        "Отзывчивая вёрстка, тёмная тема",
+      ],
       link: "/christmas_landing",
       delay: "400",
     },
@@ -84,7 +96,7 @@ export const Portfolio = () => {
     {
       title: "Barbershop",
       img: Barbershop,
-      desc: ["Лендинг", "HTML, CSS, SmoothScroll", "Адаптив"],
+      desc: ["Лендинг", "HTML, CSS, SmoothScroll", "Отзывчивая вёрстка"],
       link: "/barbershop",
       delay: "400",
     },
@@ -105,7 +117,7 @@ export const Portfolio = () => {
     {
       title: "Login form",
       img: LoginForm,
-      desc: ["Страница формы", "HTML, CSS, JS", "Адаптив"],
+      desc: ["Страница формы", "HTML, CSS, JS", "Отзывчивая вёрстка"],
       link: "/login_form",
       delay: "300",
     },

@@ -52,15 +52,15 @@ export const Menu = () => {
             <GitHub />
             <Stroke />
           </Link>
-          <Link
-            to="/CV.pdf"
+          <a
+            href="/CV.pdf"
             target="_blank"
             download
             className="menu__social-cv menu__link"
           >
             <CV /> <span>CV</span>
             <Stroke className="menu__social-cv-stroke" />
-          </Link>
+          </a>
         </div>
         <div className="menu__delimiter">
           <Delimetr />

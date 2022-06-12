@@ -17,7 +17,7 @@ import CircleStroke from "../../components/addings/stroke/circle-stroke";
 
 export const Сontacts = () => {
   useEffect(() => {
-    Aos.init({ duration: 1000 });
+    Aos.init({ duration: 1000, disable: "mobile" });
   }, []);
 
   return (
