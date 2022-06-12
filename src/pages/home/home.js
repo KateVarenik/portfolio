@@ -9,7 +9,7 @@ import Slider from "../../components/slider/Slider";
 
 export const Home = () => {
   useEffect(() => {
-    Aos.init({ duration: 800 });
+    Aos.init({ duration: 800, disable: "mobile" });
   }, []);
 
   return (

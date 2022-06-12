@@ -55,6 +55,13 @@ export const Routes = () => (
       }}
     />
     <Route
+      path="/cv"
+      component={() => {
+        window.location.href =
+          "https://rabota.by/resume/b5106385ff0af660510039ed1f734f7659306b";
+      }}
+    />
+    <Route
       path="/audiofree"
       component={() => {
         window.location.href = "https://katevarenik.github.io/AudioFree/";
