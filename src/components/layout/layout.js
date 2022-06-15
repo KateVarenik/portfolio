@@ -6,15 +6,13 @@ import Logo from "../icons/logo";
 
 export const Layout = ({ children }) => {
   useEffect(() => {
-    window.addEventListener("load", () => {
-      setTimeout(function () {
-        const preloader = document.getElementById("page-preloader");
-        if (!preloader.classList.contains("done")) {
-          preloader.classList.add("done");
-        }
-      }, 1000);
-    });
-  });
+    setTimeout(function () {
+      const preloader = document.getElementById("page-preloader");
+      if (!preloader.classList.contains("done")) {
+        preloader.classList.add("done");
+      }
+    }, 5000);
+  }, []);
 
   return (
     <div className="layout">
