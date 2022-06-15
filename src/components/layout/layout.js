@@ -14,7 +14,7 @@ export const Layout = ({ children }) => {
         }
       }, 1000);
     });
-  }, []);
+  });
 
   return (
     <div className="layout">
