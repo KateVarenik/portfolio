@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.39f68d22.chunk.css",
-    "main.js": "/portfolio/static/js/main.af7b4eb9.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.af7b4eb9.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.d69836da.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d69836da.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
     "static/css/2.7a2fd630.chunk.css": "/portfolio/static/css/2.7a2fd630.chunk.css",
@@ -13,25 +13,25 @@
     "static/css/main.39f68d22.chunk.css.map": "/portfolio/static/css/main.39f68d22.chunk.css.map",
     "static/js/2.6a1a4eee.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6a1a4eee.chunk.js.LICENSE.txt",
     "static/media/404.2f273324.svg": "/portfolio/static/media/404.2f273324.svg",
-    "static/media/audiofree.51be180f.png": "/portfolio/static/media/audiofree.51be180f.png",
-    "static/media/barbershop.460577b3.png": "/portfolio/static/media/barbershop.460577b3.png",
-    "static/media/basket_catalog.324286d3.png": "/portfolio/static/media/basket_catalog.324286d3.png",
+    "static/media/audiofree.bee1aecc.jpg": "/portfolio/static/media/audiofree.bee1aecc.jpg",
+    "static/media/barbershop.dbc7a971.jpg": "/portfolio/static/media/barbershop.dbc7a971.jpg",
+    "static/media/basket_catalog.681a467c.jpeg": "/portfolio/static/media/basket_catalog.681a467c.jpeg",
     "static/media/contacts.css": "/portfolio/static/media/bird.c8b7203b.svg",
-    "static/media/christmas_gift.e7bbd985.png": "/portfolio/static/media/christmas_gift.e7bbd985.png",
-    "static/media/coffee.c5a32d27.png": "/portfolio/static/media/coffee.c5a32d27.png",
-    "static/media/dreammaker.6d18bbf2.png": "/portfolio/static/media/dreammaker.6d18bbf2.png",
-    "static/media/hungry.2130eafb.png": "/portfolio/static/media/hungry.2130eafb.png",
+    "static/media/christmas_gift.cb8d6d4d.jpg": "/portfolio/static/media/christmas_gift.cb8d6d4d.jpg",
+    "static/media/coffee.a0913cde.jpg": "/portfolio/static/media/coffee.a0913cde.jpg",
+    "static/media/dreammaker.e9b24bad.jpg": "/portfolio/static/media/dreammaker.e9b24bad.jpg",
+    "static/media/hungry.dc4e5800.jpg": "/portfolio/static/media/hungry.dc4e5800.jpg",
     "static/media/kate.2ddb72a1.jpg": "/portfolio/static/media/kate.2ddb72a1.jpg",
-    "static/media/login_form.6826e74c.png": "/portfolio/static/media/login_form.6826e74c.png",
-    "static/media/odigo.b8cba38a.png": "/portfolio/static/media/odigo.b8cba38a.png",
-    "static/media/waxom.5115d2b2.png": "/portfolio/static/media/waxom.5115d2b2.png",
-    "static/media/webovio.71301c1a.png": "/portfolio/static/media/webovio.71301c1a.png"
+    "static/media/login_form.86a674dd.jpg": "/portfolio/static/media/login_form.86a674dd.jpg",
+    "static/media/odigo.7d484af7.jpg": "/portfolio/static/media/odigo.7d484af7.jpg",
+    "static/media/waxom.a2f26188.jpg": "/portfolio/static/media/waxom.a2f26188.jpg",
+    "static/media/webovio.2a098b8b.jpg": "/portfolio/static/media/webovio.2a098b8b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.76232b81.js",
     "static/css/2.7a2fd630.chunk.css",
     "static/js/2.6a1a4eee.chunk.js",
     "static/css/main.39f68d22.chunk.css",
-    "static/js/main.af7b4eb9.chunk.js"
+    "static/js/main.d69836da.chunk.js"
   ]
 }
