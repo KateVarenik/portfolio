@@ -5,17 +5,17 @@ import "aos/dist/aos.css";
 import TitleBcg from "../../components/addings/titlebcg/titlebcg";
 import PortfolioCard from "../../components/portfilio-card";
 import "./portfolio.css";
-import Audiofree from "../../img/audiofree.png";
-import Waxom from "../../img/waxom.png";
-import Webovio from "../../img/webovio.png";
-import Coffee from "../../img/coffee.png";
-import Odigo from "../../img/odigo.png";
-import Hungry from "../../img/hungry.png";
-import Dreammaker from "../../img/dreammaker.png";
-import BasketCatalog from "../../img/basket_catalog.png";
-import LoginForm from "../../img/login_form.png";
-import Christmas from "../../img/christmas_gift.png";
-import Barbershop from "../../img/barbershop.png";
+import Audiofree from "../../img/audiofree.jpg";
+import Waxom from "../../img/waxom.jpg";
+import Webovio from "../../img/webovio.jpg";
+import Coffee from "../../img/coffee.jpg";
+import Odigo from "../../img/odigo.jpg";
+import Hungry from "../../img/hungry.jpg";
+import Dreammaker from "../../img/dreammaker.jpg";
+import BasketCatalog from "../../img/basket_catalog.jpeg";
+import LoginForm from "../../img/login_form.jpg";
+import Christmas from "../../img/christmas_gift.jpg";
+import Barbershop from "../../img/barbershop.jpg";
 
 export const Portfolio = () => {
   useEffect(() => {
